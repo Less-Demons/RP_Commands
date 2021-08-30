@@ -1,0 +1,24 @@
+{
+    "name": "roleplay-bot",
+    "version": "1.0.0",
+    "description": "a roleplay bot for your server!",
+    "main": "index.js",
+    "dependencies": {
+        "better-sqlite3": "^7.1.0",
+        "discord.js": "^12.2.0",
+        "enmap": "^5.4.0",
+        "fs": "^0.0.1-security",
+        "humanize-duration": "^3.25.1",
+        "minipass": "^2.9.0",
+        "moment": "^2.29.1",
+        "moment-duration-format": "^2.3.2",
+        "ms": "^2.1.2",
+        "parse-duration": "^0.4.4"
+    },
+    "devDependencies": {},
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": "Lewis B#7143",
+    "license": "ISC"
+}
